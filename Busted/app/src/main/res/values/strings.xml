@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Busted</string>
+
+    <string name="name">name: </string>
+    <string name="birthday">Birthday: </string>
+    <string name="gender">Gender: </string>
+    <string name="twitter_id">Twitter ID: </string>
+    <string name="youtube_id">Youtube ID:\u0020 </string>
+    <string name="cspan_id">C-Span ID: </string>
+    <string name="wait">Please wait</string>
+    <string name="download_data">Downloading data</string>
+    <string name="not_connected">not connected to the internet</string>
+    <string name="reconnect">Please reconnect to the internet to continue.</string>
+    <string name="okay">Okay</string>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tevinhamilton/Downloads/Busted/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/tevinhamilton/Downloads/Busted/app/build/intermediates/pre-dexed/debug/commons-io-2.4_360e7f6ba2d28958c4d6350f9bfecea77cb13549.jar" />
+    </item>
+
+</items>
